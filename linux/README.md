@@ -36,6 +36,8 @@ I focused on the Linux knowledge required for practical DevOps work rather than 
 - Group ownership
 - `chgrp`
 - Symbolic links
+- Process monitoring with `ps`
+- Creating and extracting archives with `tar`
 
 ## Hands-On Practice
 
@@ -46,6 +48,8 @@ I focused on the Linux knowledge required for practical DevOps work rather than 
 - Practiced Linux permissions using numeric and symbolic modes
 - Worked with file and directory ownership
 - Created and worked with symbolic links
+- Practiced viewing running processes using `ps`
+- Created and extracted archives using `tar`
 - Practiced Linux commands using Ubuntu through WSL
 
 ## Key Concepts
@@ -89,6 +93,18 @@ Linux files have an owner and a group.
 A symbolic link is a reference to another file or directory.
 
 It is similar to a shortcut and can point to a target located elsewhere in the filesystem.
+
+### Process Monitoring
+
+The `ps` command is used to view information about running processes.
+
+It is useful for checking processes during Linux troubleshooting and system monitoring.
+
+### tar
+
+The `tar` command is used to create and extract archive files.
+
+It is commonly used to package multiple files and directories into a single archive for storage or transfer.
 
 ## DevOps Relevance
 

@@ -1570,16 +1570,8 @@ docker info
 
 ## Final Status
 
-**Docker learning: Completed at the fundamentals and job-preparation level on 10 October 2026.**
+**Docker learning: Completed at the fundamentals and job-preparation level**
 
 Topics covered include Docker architecture, image and container management, Dockerfiles, networking, port mapping, volumes, Compose, troubleshooting, security, and interview revision.
-
-Some advanced Dockerfile instructions were postponed for later study. Further practice will continue through projects and CI/CD work.
-
-**Next roadmap stage:** Jenkins / CI-CD.
-
-**Main future project:** Log Monitoring & Automated Deployment System.
-
----
 
 **End of Docker Notes**

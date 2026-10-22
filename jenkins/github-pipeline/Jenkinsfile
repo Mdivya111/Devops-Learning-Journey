@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo ''Updated Pipeline retrieved from GitHub'
+                echo 'Updated Pipeline retrieved from GitHub'
             }
         }
 

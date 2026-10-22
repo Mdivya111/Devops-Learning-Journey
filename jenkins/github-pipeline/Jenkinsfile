@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building with Jenkins and GitHub'
+                echo ''Updated Pipeline retrieved from GitHub'
             }
         }
 

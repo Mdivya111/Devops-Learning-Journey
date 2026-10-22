@@ -703,6 +703,4 @@ The essential CI/CD theory covered in this section includes:
 - The end-to-end code-to-production workflow
 - The responsibilities of Git, GitHub, Jenkins, Docker, AWS, and Terraform
 
-**Current status:** Essential CI/CD fundamentals covered at the theory level. Practical work will reinforce the concepts and connect them to real-world DevOps tasks.
-
-**Next topic:** Jenkins fundamentals, followed by guided practical exercises that explicitly connect each exercise to the theory it reinforces.
+**Current status:** Essential CI/CD fundamentals covered.
